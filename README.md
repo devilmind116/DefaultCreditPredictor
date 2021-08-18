@@ -48,4 +48,7 @@ This notebook consisits of the following parts:<br>
 <br>
 5) Building ML model using various algorithms and comparing them<br>
 <br>
-This is the step by step approach followed for Efficient Model Creation.
+This is the step by step approach followed for Efficient Model Creation.<br>
+
+<hr>
+All these notebooks are available under Visualisations folder.
