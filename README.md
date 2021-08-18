@@ -47,3 +47,5 @@ This notebook consisits of the following parts:
 4) Feature Engineering
 
 5) Building ML model using various algorithms and comparing them
+
+This is the step by step approach followed for Efficient Model Creation
