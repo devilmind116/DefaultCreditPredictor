@@ -1,0 +1,14 @@
+imblearn
+numpy
+pandas
+seaborn
+sklearn
+xgboost
+gunicorn
+itsdangerous
+Jinja2
+MarkupSafe
+Werkzeug
+scipy
+matplotlib
+scikit-learn
