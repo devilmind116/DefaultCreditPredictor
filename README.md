@@ -51,4 +51,3 @@ This notebook consisits of the following parts:<br>
 This is the step by step approach followed for Efficient Model Creation.<br>
 
 <hr>
-All these notebooks are available under Visualisations folder.
